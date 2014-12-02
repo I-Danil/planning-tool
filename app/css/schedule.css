@@ -1,0 +1,5 @@
+.pt-schedule-panel {
+    width: calc(100% - 271px);
+    height: 100%;
+    float: right;
+}

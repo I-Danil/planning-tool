@@ -1,0 +1,14 @@
+.pt-screen {
+    height: 100%;
+    width: 100%;
+}
+
+.pt-scene {
+    height: calc(100% - 26px);
+}
+
+.pt-schedule-view {
+    width: calc(100% - 241px);
+    height: 100%;
+    float: left;
+}
